@@ -28,6 +28,7 @@ URLS = [
     'https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz',
     'https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz',
     'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz',
+    'https://github.com/abusaeeidx/IPTV-Scraper-Zilla/raw/refs/heads/main/xumo_epg.xml.gz',
 ]
 
 def get_tvg_ids_from_remote_m3u():
