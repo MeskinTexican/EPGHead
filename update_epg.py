@@ -27,6 +27,7 @@ URLS = [
     'https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz',
     'https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz',
     'https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz',
+    'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz',
 ]
 
 def get_tvg_ids_from_remote_m3u():
