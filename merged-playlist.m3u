@@ -1,5 +1,90 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="99951251" tvg-name="MovieSphere by Lionsgate" tvg-logo="https://image.xumo.com/v1/channels/channel/99951251/168x168.png?type=color_onBlack" group-title="Movies",MovieSphere by Lionsgate
+##EXTINF:-1 channel-id="US4100039PO" tvg-id="US4100039PO" tvg-chno="2683" tvg-name="America’s Funniest Home Videos" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100039PO_20251125T030910SQUARE.png" group-title="Comedy",America’s Funniest Home Videos
+https://jmp2.uk/stvp-US4100039PO
+#EXTINF:-1 channel-id="US400002PS" tvg-id="US400002PS" tvg-chno="2605" tvg-name="Animation+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20250902T225851SQUARE.png" group-title="Comedy",Animation+
+https://jmp2.uk/stvp-US400002PS
+#EXTINF:-1 channel-id="USAJ3504502A" tvg-id="USAJ3504502A" tvg-chno="3205" tvg-name="Anime All day" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504502A_20260421T141927SQUARE.png" group-title="Anime & Gaming",Anime All day
+https://jmp2.uk/stvp-USAJ3504502A
+#EXTINF:-1 channel-id="US15000032I" tvg-id="US15000032I" tvg-chno="3209" tvg-name="ANIME x HIDIVE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US15000032I_20260421T141933SQUARE.png" group-title="Anime & Gaming",ANIME x HIDIVE
+https://jmp2.uk/stvp-US15000032I
+#EXTINF:-1 channel-id="USBD1700001RW" tvg-id="USBD1700001RW" tvg-chno="3526" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20260818T061253SQUARE.png" group-title="Nature, History & Science",BBC Earth
+https://jmp2.uk/stvp-USBD1700001RW
+#EXTINF:-1 channel-id="USBC450000130" tvg-id="USBC450000130" tvg-chno="1555" tvg-name="BET Pluto TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC450000130_20260421T133852SQUARE.png" group-title="Action & Drama",BET Pluto TV
+https://jmp2.uk/stvp-USBC450000130
+#EXTINF:-1 channel-id="USBD300008G1" tvg-id="USBD300008G1" tvg-chno="1540" tvg-name="Bounce XL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20260421T133727SQUARE.png" group-title="Action & Drama",Bounce XL
+https://jmp2.uk/stvp-USBD300008G1
+#EXTINF:-1 channel-id="USAJ30000148W" tvg-id="USAJ30000148W" tvg-chno="1240" tvg-name="CINEVAULT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20260421T133423SQUARE.png" group-title="Movies",CINEVAULT
+https://jmp2.uk/stvp-USAJ30000148W
+#EXTINF:-1 channel-id="USBC10000129R" tvg-id="USBC10000129R" tvg-chno="2942" tvg-name="Complex TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000129R_20260407T042305SQUARE.png" group-title="Lifestyle & Pop Culture",Complex TV
+https://jmp2.uk/stvp-USBC10000129R
+#EXTINF:-1 channel-id="USBB5200022PY" tvg-id="USBB5200022PY" tvg-chno="1856" tvg-name="Crimes Cults Killers" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200022PY_20250805T005746SQUARE.png" group-title="Crime",Crimes Cults Killers
+https://jmp2.uk/stvp-USBB5200022PY
+#EXTINF:-1 channel-id="US2000018YI" tvg-id="US2000018YI" tvg-chno="3203" tvg-name="Crunchyroll" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000018YI_20260210T002139SQUARE.png" group-title="Anime & Gaming",Crunchyroll
+https://jmp2.uk/stvp-US2000018YI
+#EXTINF:-1 channel-id="US3700006XE" tvg-id="US3700006XE" tvg-chno="3524" tvg-name="Dinos 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700006XE_20260421T141708SQUARE.png" group-title="Nature, History & Science",Dinos 24/7
+https://jmp2.uk/stvp-US3700006XE
+#EXTINF:-1 channel-id="USBD2500012DH" tvg-id="USBD2500012DH" tvg-chno="1550" tvg-name="Ebony TV by Lionsgate" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500012DH_20250513T012658SQUARE.png" group-title="Action & Drama",Ebony TV by Lionsgate
+https://jmp2.uk/stvp-USBD2500012DH
+#EXTINF:-1 channel-id="US3500004M7" tvg-id="US3500004M7" tvg-chno="3210" tvg-name="FilmRise Anime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500004M7_20260421T142034SQUARE.png" group-title="Anime & Gaming",FilmRise Anime
+https://jmp2.uk/stvp-US3500004M7
+#EXTINF:-1 channel-id="USBB3200017MY" tvg-id="USBB3200017MY" tvg-chno="1859" tvg-name="Forensic Files" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200017MY_20260922T055601SQUARE.png" group-title="Crime",Forensic Files
+https://jmp2.uk/stvp-USBB3200017MY
+#EXTINF:-1 channel-id="USBC100001175" tvg-id="USBC100001175" tvg-chno="3075" tvg-name="Horror by ALTER" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100001175_20240730T012800SQUARE.png" group-title="Sci-Fi & Horror",Horror by ALTER
+https://jmp2.uk/stvp-USBC100001175
+#EXTINF:-1 channel-id="US270000585" tvg-id="US270000585" tvg-chno="3215" tvg-name="Hunter x Hunter" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US270000585_20250826T234529SQUARE.png" group-title="Anime & Gaming",Hunter x Hunter
+https://jmp2.uk/stvp-US270000585
+#EXTINF:-1 channel-id="USBD1700008H9" tvg-id="USBD1700008H9" tvg-chno="1822" tvg-name="I Survived…" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700008H9_20250805T005807SQUARE.png" group-title="Crime",I Survived…
+https://jmp2.uk/stvp-USBD1700008H9
+#EXTINF:-1 channel-id="USBD300002TU" tvg-id="USBD300002TU" tvg-chno="1510" tvg-name="ION" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300002TU_20260922T055713SQUARE.png" group-title="Action & Drama",ION
+https://jmp2.uk/stvp-USBD300002TU
+#EXTINF:-1 channel-id="USBC24000223S" tvg-id="USBC24000223S" tvg-chno="1810" tvg-name="ION Mystery" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000223S_20260421T133716SQUARE.png" group-title="Crime",ION Mystery
+https://jmp2.uk/stvp-USBC24000223S
+#EXTINF:-1 channel-id="USBD300003LK" tvg-id="USBD300003LK" tvg-chno="1511" tvg-name="ION Plus" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300003LK_20260421T133722SQUARE.png" group-title="Action & Drama",ION Plus
+https://jmp2.uk/stvp-USBD300003LK
+#EXTINF:-1 channel-id="US11000020V" tvg-id="US11000020V" tvg-chno="3202" tvg-name="It’s Anime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US11000020V_20260609T035031SQUARE.png" group-title="Anime & Gaming",It’s Anime
+https://jmp2.uk/stvp-US11000020V
+#EXTINF:-1 channel-id="US27000062U" tvg-id="US27000062U" tvg-chno="3216" tvg-name="JoJo's Bizarre Adventure" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US27000062U_20250826T234532SQUARE.png" group-title="Anime & Gaming",JoJo's Bizarre Adventure
+https://jmp2.uk/stvp-US27000062U
+#EXTINF:-1 channel-id="US2001109K" tvg-id="US2001109K" tvg-chno="1828" tvg-name="Killer Mysteries" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2001109K_20260421T133742SQUARE.png" group-title="Crime",Killer Mysteries
+https://jmp2.uk/stvp-US2001109K
+#EXTINF:-1 channel-id="US160000159" tvg-id="US160000159" tvg-chno="1846" tvg-name="Live PD Presents" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US160000159_20250805T005823SQUARE.png" group-title="Crime",Live PD Presents
+https://jmp2.uk/stvp-US160000159
+#EXTINF:-1 channel-id="USBD700015LK" tvg-id="USBD700015LK" tvg-chno="3080" tvg-name="Midnight Pulp" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700015LK_20241112T000919SQUARE.png" group-title="Sci-Fi & Horror",Midnight Pulp
+https://jmp2.uk/stvp-USBD700015LK
+#EXTINF:-1 channel-id="US18000163F" tvg-id="US18000163F" tvg-chno="1237" tvg-name="Miramax Movie Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20260707T035902SQUARE.png" group-title="Movies",Miramax Movie Channel
+https://jmp2.uk/stvp-US18000163F
+#EXTINF:-1 channel-id="USBD17000117B" tvg-id="USBD17000117B" tvg-chno="1230" tvg-name="MovieSphere" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20241105T024212SQUARE.png" group-title="Movies",MovieSphere
+https://jmp2.uk/stvp-USBD17000117B
+#EXTINF:-1 channel-id="US1900005VB" tvg-id="US1900005VB" tvg-chno="1850" tvg-name="Oxygen True Crimes Archive" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900005VB_20260707T035819SQUARE.png" group-title="Crime",Oxygen True Crimes Archive
+https://jmp2.uk/stvp-US1900005VB
+#EXTINF:-1 channel-id="USAJ26000054W" tvg-id="USAJ26000054W" tvg-chno="1250" tvg-name="Paramount Movie Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20260804T045743SQUARE.png" group-title="Movies",Paramount Movie Channel
+https://jmp2.uk/stvp-USAJ26000054W
+#EXTINF:-1 channel-id="USAJ3504531A" tvg-id="USAJ3504531A" tvg-chno="3225" tvg-name="Pluto TV Pixel World" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504531A_20260609T035058SQUARE.png" group-title="Anime & Gaming",Pluto TV Pixel World
+https://jmp2.uk/stvp-USAJ3504531A
+#EXTINF:-1 channel-id="US5100003NU" tvg-id="US5100003NU" tvg-chno="3648" tvg-name="Pokémon" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5100003NU_20260421T141802SQUARE.png" group-title="Kids",Pokémon
+https://jmp2.uk/stvp-US5100003NU
+#EXTINF:-1 channel-id="US2900012T8" tvg-id="US2900012T8" tvg-chno="3654" tvg-name="Power Rangers" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900012T8_20260421T142220SQUARE.png" group-title="Kids",Power Rangers
+https://jmp2.uk/stvp-US2900012T8
+#EXTINF:-1 channel-id="USBB3200001MG" tvg-id="USBB3200001MG" tvg-chno="1845" tvg-name="REELZ Famous & Infamous" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20240520T221329SQUARE.png" group-title="Crime",REELZ Famous & Infamous
+https://jmp2.uk/stvp-USBB3200001MG
+#EXTINF:-1 channel-id="USBC36000073J" tvg-id="USBC36000073J" tvg-chno="3207" tvg-name="RetroCrush" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC36000073J_20250701T224525SQUARE.png" group-title="Anime & Gaming",RetroCrush
+https://jmp2.uk/stvp-USBC36000073J
+#EXTINF:-1 channel-id="USBC1000004G8" tvg-id="USBC1000004G8" tvg-chno="1560" tvg-name="Shades of Black" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000004G8_20250415T010001SQUARE.png" group-title="Action & Drama",Shades of Black
+https://jmp2.uk/stvp-USBC1000004G8
+#EXTINF:-1 channel-id="USBD3300020PM" tvg-id="USBD3300020PM" tvg-chno="3663" tvg-name="Sonic The Hedgehog" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300020PM_20260414T005621SQUARE.png" group-title="Kids",Sonic The Hedgehog
+https://jmp2.uk/stvp-USBD3300020PM
+#EXTINF:-1 channel-id="USBD2500018X6" tvg-id="USBD2500018X6" tvg-chno="1515" tvg-name="Stories by AMC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20260825T040251SQUARE.png" group-title="Action & Drama",Stories by AMC
+https://jmp2.uk/stvp-USBD2500018X6
+#EXTINF:-1 channel-id="USAJ17000014C" tvg-id="USAJ17000014C" tvg-chno="3070" tvg-name="The Asylum" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20260421T141813SQUARE.png" group-title="Sci-Fi & Horror",The Asylum
+https://jmp2.uk/stvp-USAJ17000014C
+#EXTINF:-1 channel-id="USBB10000047W" tvg-id="USBB10000047W" tvg-chno="3055" tvg-name="Unidentified" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000047W_20240520T214719SQUARE.png" group-title="Sci-Fi & Horror",Unidentified
+https://jmp2.uk/stvp-USBB10000047W
+#EXTINF:-1 channel-id="US1900002QK" tvg-id="US1900002QK" tvg-chno="3020" tvg-name="Universal Monsters" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900002QK_20260421T142339SQUARE.png" group-title="Sci-Fi & Horror",Universal Monsters
+https://jmp2.uk/stvp-US1900002QK
+#EXTINF:-1 channel-id="USBB1900006NY" tvg-id="USBB1900006NY" tvg-chno="2938" tvg-name="VICE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900006NY_20240520T214721SQUARE.png" group-title="Lifestyle & Pop Culture",VICE
+https://jmp2.uk/stvp-USBB1900006NY
+#EXTINF:-1 channel-id="US800014B2" tvg-id="US800014B2" tvg-chno="3014" tvg-name="Z Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800014B2_20260421T141808SQUARE.png" group-title="Sci-Fi & Horror",Z Nation
+https://jmp2.uk/stvp-US800014B2#EXTINF:-1 tvg-id="99951251" tvg-name="MovieSphere by Lionsgate" tvg-logo="https://image.xumo.com/v1/channels/channel/99951251/168x168.png?type=color_onBlack" group-title="Movies",MovieSphere by Lionsgate
 https://d10xbgdha1yz8s.cloudfront.net/10001/99951251/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951251&ads.xumo_streamId=99951251&ads.channelId=99951251&ads.channelName=LionsgateMovieSphere&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads.genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_coppa=0&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads.asnw=&ads.xumo_channelName=LionsgateMovieSphere&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=95f22d20-1b1b-48f0-abb8-847e808db94e&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
 #EXTINF:-1 tvg-id="9995106" tvg-name="Shades of Black" tvg-logo="https://image.xumo.com/v1/channels/channel/9995106/168x168.png?type=color_onBlack" group-title="Movies",Shades of Black
 https://d3a6p9masi26ag.cloudfront.net/10001/9995106/hls/playlist.m3u8?ads.xumo_channelId=9995106&ads._fw_ifa_type=&ads._fw_did=259a5359-fe87-45ce-b42f-5a6448eee991&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FuseBeat&ads.csid=xumo_web_FuseBeat_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3508&ads.xumo_contentName=FuseBeat&ads.xumo_providerId=3508&ads.xumo_providerName=FuseBeat&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9995106&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -11,7 +96,8 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_cha
 https://dbrb49pjoymg4.cloudfront.net/10001/99951572/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951572&ads.xumo_streamId=99951572&ads.channelId=99951572&ads.channelName=MGMPresentsAction&ads.caid=MGMPresentsAction&ads.csid=xumo_web_MGMPresentsAction_ssai&ads.genre=FF,A,Action,IAB1-5,GD,Drama&ads._fw_content_genre=FF,A,Action,IAB1-5,GD,Drama&ads._fw_coppa=0&ads.xumo_contentId=4493&ads.xumo_contentName=MGMPresentsAction&ads.xumo_providerId=4493&ads.xumo_providerName=MGMPresentsAction&ads.asnw=&ads.xumo_channelName=MGMPresentsAction&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=0f62612b-e895-48c4-8d7d-cf146e5656ba&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
 #EXTINF:-1 tvg-id="99951573" tvg-name="MGM Presents" tvg-logo="https://image.xumo.com/v1/channels/channel/99951573/168x168.png?type=color_onBlack" group-title="Movies",MGM Presents
 https://dbrb49pjoymg4.cloudfront.net/10001/99951573/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951573&ads.xumo_streamId=99951573&ads.channelId=99951573&ads.channelName=MGMPresents&ads.caid=MGMPresents&ads.csid=xumo_web_MGMPresents_ssai&ads.genre=FF,IAB1-5&ads._fw_content_genre=FF,IAB1-5&ads._fw_coppa=0&ads.xumo_contentId=4494&ads.xumo_contentName=MGMPresents&ads.xumo_providerId=4494&ads.xumo_providerName=MGMPresents&ads.asnw=&ads.xumo_channelName=MGMPresents&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=a67b722f-35ad-4067-9375-9122f3c07380&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
-#EXTINF:-1 tvg-id="99951158" tvg-name="ION" tvg-logo="https://image.xumo.com/v1/channels/channel/99951158/168x168.png?type=color_onBlack" group-title="Action & Drama",ION
+#EXTINF:-1 tvg-id="99951158" tvg-name="ION" tvg-logo="https://image.xumo.com/v1/channels/channel/99951158/168x168.png?type=color_onBlack" group-title="Action & D
+rama",ION
 https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951158&ads.xumo_streamId=99951158&ads.channelId=99951158&ads.channelName=ScrippsION&ads.caid=ScrippsION&ads.csid=xumo_web_ScrippsION_ssai&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_coppa=0&ads.xumo_contentId=3766&ads.xumo_contentName=ScrippsION&ads.xumo_providerId=3766&ads.xumo_providerName=ScrippsION&ads.asnw=&ads.xumo_channelName=ScrippsION&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=f48e8b14-f3f0-42c5-8001-74ea98b92a39&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
 #EXTINF:-1 tvg-id="99991623" tvg-name="The Walking Dead Universe" tvg-logo="https://image.xumo.com/v1/channels/channel/99991623/168x168.png?type=color_onBlack" group-title="Horror & Sci-Fi",The Walking Dead Universe
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991623/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99991623&ads.xumo_streamId=99991623&ads.channelId=99991623&ads.channelName=&ads.csid=xumo_web_amcthewalkingdeaduniverse_ssai&ads._fw_coppa=0&ads._fw_content_genre=&ads.xumo_contentId=2655&ads.xumo_contentName=amcthewalkingdeaduniverse&ads.xumo_providerId=2655&ads.xumo_providerName=amcthewalkingdeaduniverse&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:996f3966-677e-42cb-9166-0316083abded&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=
