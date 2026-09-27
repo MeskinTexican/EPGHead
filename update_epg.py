@@ -24,11 +24,33 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 OUTPUT_FILE_GZ = os.path.join(OUTPUT_DIR, f"{NAME}-epg.xml.gz")
 
 URLS = [
-    'https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz',
+    'https://iptv-epg.org/files/epg-il.xml.gz',
+    'http://mains.services/xmltv.php?username=tmo247line&password=65s4d64vgfdfbae4',
+    'https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup/epg.xml',
+    'https://raw.githubusercontent.com/BuddyChewChew/whiplash-epg/main/epg.xml',
+    'https://github.com/BuddyChewChew/tcl-playlist-generator/raw/refs/heads/main/tcl_epg.xml',
+    'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/nzau/epg.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz',
+    'https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml',
     'https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz',
-    'https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz',
-    'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz',
-    'https://github.com/abusaeeidx/IPTV-Scraper-Zilla/raw/refs/heads/main/xumo_epg.xml.gz',
+    'https://raw.githubusercontent.com/BuddyChewChew/dummy-epg-project/refs/heads/main/epg.xml',
+    'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml',
+    'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20260405&channel_id=464981',
+    'https://github.com/BuddyChewChew/xumo-playlist-generator/raw/refs/heads/main/playlists/xumo_epg.xml.gz',
+    'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml'
 ]
 
 def get_tvg_ids_from_remote_m3u():
